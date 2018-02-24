@@ -10,7 +10,7 @@ h5 {
   font-family: 'Indie Flower', cursive;
 }
 .container-fluid {
-  background-color: white;
+  background-color: brown;
   border-bottom: 2px dashed silver;
 }
 .logo-heading {
@@ -24,7 +24,7 @@ h5 {
 }
 .footer {
   color: black;
-  background: blanchedalmond;
+  background: seagreen;
   padding: 20px 0;
 }
 .col-1 col-box {
